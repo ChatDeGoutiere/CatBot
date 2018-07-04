@@ -6,7 +6,7 @@ const weather = require('weather-js');
 const YTDL = require("ytdl-core");
 const queue = new Map();
 const ms = require("ms");
-var token = "NDQ0MTU4NDg3ODc0NzY0ODE1.DgwIbQ.yMaT5utg9267n4afofwLaMHBJOA";
+
 var prefix = "/"; 
 let xp = require("./xp.json");
 
